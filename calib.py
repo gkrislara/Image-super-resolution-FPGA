@@ -5,13 +5,12 @@ import glob
 import random
 
 
-calib_image_dir = "/workspace/data/patch_120_2/"
-#calib_image_list = "/workspace/RDN/frozen_model/quantised/calib_list.txt"
+calib_image_dir = "path/to/image/directory"
+
 calib_batch_size = 50
 
 image_files = [f for f in glob.glob(calib_image_dir+'*.png')]
 
-print(len(image_files))
 
 random_index=[]
 for i in range(100):
