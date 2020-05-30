@@ -23,3 +23,14 @@ Follow the .pdf file in the repository for complete information
  - [Francesco Cardinale for Image Super Resolution Models ](https://github.com/idealo/image-super-resolution)
  - [Morgan giraud for freeze_graph.py](https://github.com/morgangiraud)
  - [fengwang for subpixel layer](https://github.com/fengwang/subpixel_conv2d)
+
+## Citation
+This is my Under Graduate Project done at Healthcare Technology Innovation Centre IIT Madras. Please Cite if it helps your work
+```
+@misc{gokulakrishnan2020ISRFPGA,
+  title={Deploying Deep learning Image Super-Resolution Models in Xilinx Zynq MPSoC ZCU102},
+  author={Gokula Krishnan Ravi},
+  year={2020},
+  howpublished={\url{https://github.com/gkrislara/Image-super-resolution-FPGA}},
+}
+```
